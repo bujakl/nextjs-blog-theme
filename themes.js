@@ -28,13 +28,23 @@ exports.COLOR_THEMES = {
   },
   reddie: {
     colors: {
-      primary: '#FF4D4D',
+      primary: '#C01001',
       'gradient-1': '#FFC700',
       'gradient-2': '#FF85DD',
       'gradient-3': '#FF85DD',
       'gradient-4': '#FF8585',
     },
   },
+
+    reddieL: {
+        colors: {
+            primary: '#C01001',
+            'gradient-1': '#F7F7F7',
+            'gradient-2': '#C01001',
+            'gradient-3': '#C01001',
+            'gradient-4': '#F7F7F7',
+        },
+    },
   greenie: {
     colors: {
       primary: '#C78500',
